@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mostafa Sayed, a Senior Software QA Engineer based in Cairo, Egypt. I have 5+ years of experience in manual, API, mobile, web, and automation testing, and I am ISTQB CTFL certified.
+I'm Mostafa Sayed, an ISTQB CTFL certified Senior Software QA Engineer. I have 5+ years of experience in manual, API, mobile, web, and automation testing.
 
 I build and maintain automated tests with [Cypress](https://www.cypress.io/) for web and [Maestro](https://maestro.mobile.dev/) for mobile, test APIs with Postman, and track bugs in Jira and Azure DevOps. I work in Agile (Scrum) teams and take part in sprint planning, daily stand-ups, and releases.
 
